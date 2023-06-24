@@ -16,21 +16,23 @@
 ### 
 While working in PyCharm with the Assignment 08 starter code.py file, I tested the code as I went along with the insertion of the Class Product and I had assistance from Professor Root as I was testing the code and it was running. I am struggling with the Class Processor code and Class Presentation code to get the program to run the code. I am struggling to get the code to run in PyCharm. I used the script code for the Class Presentation from Assignment 06, but the code is still not running in PyCharm. Figure 1 in the example below running the code in the Terminal on a Mac with Monterey 12.6.5 operating system for Python 3.  The class lectures and videos are very helpful to the beginner Programmer. The link below is for the Assignment 08 Final test code that I correctly inserted the Class Product and had it run successfully in PyCharm.
 
- # Figure 1 below is the Assignment08 Final Product Object and Product Price test code being run in PyCharm![image](https://github.com/tadeisue/INTFnd100-Mod8-Final/assets/131211225/3deea4fd-a1a9-4e02-8308-4d017732ff00)
+ # Figure 1 below is the Assignment08 Final Product Object and Product Price test code being run in PyCharm
+ # <img width="1280" alt="PyCharm code view Figure 1 Assignment 08 final " src="https://github.com/tadeisue/INTFnd100-Mod8-Final/assets/131211225/a58ea2f8-f46c-4c58-b83e-4c6588eddbae"> #
+
 
  #
 
  #
 
 ## Topic 2 #
-As the program runs, the User continues with entering tasks to complete the specific requests of the program, including removing items as coded.
+As the program runs, the User continues with entering tasks to complete the specific requests of the program.
 Figure 2 shows the code run in the PyCharm editor on the same Mac OS system.
 #
 Figure 2: PyCharm Input/Output Presentation Code
 
-![image](https://github.com/tadeisue/INTFnd100-Mod8-Final/assets/131211225/df02810e-3a29-4292-8a52-2a93ac0040c4)
+#<img width="1280" alt="PyCharm Menu items IO Code Figure 2" src="https://github.com/tadeisue/INTFnd100-Mod8-Final/assets/131211225/73935ca5-8a85-40e3-9a3c-b70efdb8a2aa">
 
-
+#
 ### 
 #
 
