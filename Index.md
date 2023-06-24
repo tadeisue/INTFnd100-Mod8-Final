@@ -25,6 +25,7 @@ While working in PyCharm with the Assignment 08 starter code.py file, I tested t
 As the program runs, the User continues with entering tasks to complete the specific requests of the program, including removing items as coded.
 Figure 2 shows the code run in the PyCharm editor on the same Mac OS system.
 
+
 ### 
 #
 
@@ -32,6 +33,8 @@ Figure 2 shows the code run in the PyCharm editor on the same Mac OS system.
 
 
 # Summary #
+## I have been testing code as I insert small chunks of code into each section of the script, and for the first portion of the Class Product inserted code, the testing of the code was working. I’m not sure why the Class Processor code and Class Presentation code is not running, and I have been using the Debug feature of PyCharm to try to follow what corrections are needed. In some areas of the code it is just a matter of indentation for the try except block, or reading the processing blocks of code, but because I’m so new to programming, I’m still not certain what the errors are or how to fix the code. ![image](https://github.com/tadeisue/INTFnd100-Mod8-Final/assets/131211225/db27e04e-c523-4a7a-9293-67f182095d50)
+
 ###                         #
 ###           #
 
